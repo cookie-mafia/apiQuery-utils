@@ -1,0 +1,24 @@
+{
+  "name": "api-query-utils",
+  "version": "1.0.0",
+  "description": "utilities for api query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "gulp lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nakautot@github.com/cookie-mafia/apiQuery-utils.git"
+  },
+  "author": "Joseph Panuncillo <jpanuncillo@live.com> (nakautot.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cookie-mafia/apiQuery-utils/issues"
+  },
+  "homepage": "https://github.com/cookie-mafia/apiQuery-utils#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^4.0.0"
+  }
+}
