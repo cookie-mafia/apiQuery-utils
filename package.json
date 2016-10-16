@@ -19,6 +19,8 @@
   "homepage": "https://github.com/cookie-mafia/apiQuery-utils#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-jscs": "^4.0.0"
+    "gulp-jscs": "^4.0.0",
+    "gulp-mocha": "^3.0.1",
+    "should": "^11.1.1"
   }
 }
